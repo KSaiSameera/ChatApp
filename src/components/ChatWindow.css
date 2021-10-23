@@ -59,6 +59,7 @@ textarea#text {
 textarea{
     resize:none;
 }
+
 #text:focus {
     outline: inherit;
 }
